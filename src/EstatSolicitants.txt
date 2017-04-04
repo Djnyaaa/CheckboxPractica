@@ -1,0 +1,5 @@
+Nombre: Introduce nombre..., apellido: Introduce apellidos..., DNI: 12345678Z, sexo: Mujer, estado: Paro
+Nombre: Introduce nombre..., apellido: Introduce apellidos..., DNI: 12345678Z, sexo: Hombre, estado: Trabajador
+Nombre: Introduce nombre..., apellido: Introduce apellidos..., DNI: 12345678Z, sexo: Mujer, estado: Estudiante
+Nombre: Introduce nombre..., apellido: Introduce apellidos..., DNI: 12345678Z, sexo: Mujer, estado: Paro
+Nombre: heheh, apellido: jejeje, DNI: 12345678Z, sexo: Hombre, estado: Paro
